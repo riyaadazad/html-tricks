@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: right-sidebar
 description: Anything is possible with the power of Jekyll and GitHub Pages!
 permalink: /how-to-create-your-own-blog-for-free
