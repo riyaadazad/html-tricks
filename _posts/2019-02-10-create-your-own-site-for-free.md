@@ -7,6 +7,4 @@ image: 'http://www.thebluediamondgallery.com/wooden-tile/images/website.jpg'
 image-alt-text: Scrabble tiles spelling out the word website
 image-link: 'http://www.thebluediamondgallery.com/wooden-tile/images/website.jpg'
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Let's say that you are a student who is looking to enter the workforce. You want to major in journalism, but you also have a knack for computers. are looking for a college or university to major in journalism,  
