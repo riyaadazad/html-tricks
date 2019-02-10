@@ -35,7 +35,7 @@
 
 	// Nav.
 
-		// Buton.
+		// Button.
 			$(
 				'<div id="navButton">' +
 					'<a href="#navPanel" class="toggle"></a>' +
@@ -47,7 +47,7 @@
 			$(
 				'<div id="navPanel">' +
 					'<nav>' +
-						'<a href="index.html" class="link depth-0">Home</a>' +
+						//'<a href="index.html" class="link depth-0">Home</a>' +
 						$('#nav').navList() +
 					'</nav>' +
 				'</div>'
