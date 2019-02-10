@@ -1,9 +1,6 @@
 ---
 layout: landing
-description: Welcome to Telephasic!
-hero-cta-button-link: #
+description: Welcome to HTML-Tricks!
+hero-cta-button-text: View Our Articles
+hero-cta-button-link: blog
 ---
-
-## This is a heading
-### And this is a subheading
-Some landing page paragraph and textual content here...

@@ -13,21 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Telephasic by HTML5 UP
-brand: Telephasic
-email: email@mail.com
+title: HTML-Tricks
+brand: HTML-Tricks
+email: azad.riyaad@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Telephasic is a responsive site template by HTML5 UP, designed <br> and built by AJ and released for free under the Creative Commons <br> Attribution 3.0 license. "Jekyllized" by @RiyaadAzad. Enjoy!
-baseurl: "/html5up-telephasic-jekyll" # the subpath of your site, e.g. /blog
-aboutme: We are an XYZ company dedicated to satisfying our customers.
+ Tips, thoughts, and tutorials on everything Web.
+baseurl: "/html-tricks" # the subpath of your site, e.g. /blog
+aboutme: We are a tech site that wants to provide the latest developments in Web.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_handle: jekyllrb
-# facebook_username: jekyllrb
-# dribbble_username: jekyllrb
-# instagram_username: jekyllrb
-# youtube_channel: jekyllrb
-# pinterest_username: jekyllrb
-# github_username:  riyaadazad
+twitter_handle: htmltricks
+facebook_username: htmltricks
+dribbble_username: htmltricks
+instagram_username: htmltricks
+youtube_channel: htmltricks
+pinterest_username: htmltricks
+github_username:  riyaadazad
 # google_analytics:
 
 # Build settings
