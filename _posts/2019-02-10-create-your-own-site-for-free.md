@@ -20,6 +20,6 @@ For the HTML-Tricks website, I used the theme called [Telephasic](https://html5u
 ## Introducing GitHub Pages
 In this section, I will assume that you have obtained some sort of HTML site that you are legally allowed to use. Now is the part where you decide how to host your site. There are many different ways to do this, and most involve extreme saddening of your wallet. However, there are ways to host your site for free. Enter [GitHub Pages](https://pages.github.com/), a project created by the development platform [GitHub](https://github.com/). It is marketed as "Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live." 
 
-There are other alternatives to GitHub Pages for free hosting, such as [Netlify](https://www.netlify.com/), which is "An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS. And that’s just the beginning." However, I am more familiar with GitHub Pages, so I will be using GitHub Pages in this articles.
+There are other alternatives to GitHub Pages for free hosting, such as [Netlify](https://www.netlify.com/), which is "An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS. And that’s just the beginning." However, I am more familiar with GitHub Pages, so I will be using it in this article.
 
 ## The Strange Case of Dr. Jekyll
