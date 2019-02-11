@@ -18,17 +18,24 @@ It is totally fine to use a theme for your website, but make sure that you are l
 For the HTML-Tricks website, I used the theme called [Telephasic](https://html5up.net/telephasic) from a designer called "[AJ](http://twitter.com/ajlkn)" who is the author of "[HTML5 UP!](https://html5up.net/)". _HTML5 UP!_ "makes spiffy HTML5 site templates that are: Fully Responsive, Built on intelligent HTML5 + CSS3, Super Customizable, 100% Free under the [Creative Commons](https://html5up.net/license)." I recommend _HTML5 UP!_ themes because they look great, and they are basically free to use, as long as you include the license somewhere in your site files and explicitly state that they created the design. Again, you could use any HTML site theme that you have access to, or you could create your own (see "Build-a-Jekyll Workshop" below).
 
 ## Introducing GitHub Pages
-In this section, I will assume that you have obtained some sort of HTML site that you are legally allowed to use. Now is the part where you decide how to host your site. There are many different ways to do this, and most involve extreme saddening of your wallet. However, there are ways to host your site for free. Enter [GitHub Pages](https://pages.github.com/), a project created by the development platform [GitHub](https://github.com/). It is marketed as "Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live."  It's powered by a program called [Jekyll](https://jekyllrb.com/) (more on that below), that allows you to "Transform your plain text into static websites and blogs." 
+In this section, I will assume that you have obtained some sort of HTML site that you are legally allowed to use. Now is the part where you decide how to host your site. There are many different ways to do this, and most involve extreme saddening of your wallet. However, there are ways to host your site for free. Enter [GitHub Pages](https://pages.github.com/), a project created by the development platform [GitHub](https://github.com/). It is marketed as "Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live."  It's powered by a program called [Jekyll](https://jekyllrb.com/) (for more on that, see "The Strange Case of Dr. Jekyll" below), that allows you to "Transform your plain text into static websites and blogs." 
 
 Of course, the catch is that your site will have a subdomain, such as "your-GitHub-username.github.io/". This can work in your favor if you intend for your site to based on topics like technology, since GitHub is an industry-recognized product. If you prefer to not have your site domain with GitHub, you can check out other alternatives to GitHub Pages for free hosting, such as [Netlify](https://www.netlify.com/), which is "An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS. And that’s just the beginning." Sites published for free with Netlify will have a subdomain of "your-site-name.netlify.com". GitHub Pages and Netlify are conceptually similar, but since I am more familiar with GitHub Pages, so I will be using that in this article.
 
-Anyway, the way GitHub Pages works is that it uses your GitHub account username as the site name ("username.github.io"), so be sure to use an appropriate name. Although, if you desperately want to use a funny username, you can also create an organization page (later). 
+Anyway, the way GitHub Pages works is that it uses your GitHub account username as the site name ("username.github.io"), so be sure to use an appropriate name. Although, if you desperately want to use a funny username, you can also create an organization page (see "GitHub User vs. Organizational Pages" below). 
 
 For now, let's say that you are using your GitHub username to create your site from scratch. To do this, navigate to [github.com](https://github.com/) and sign in. Next, you'll need to create a new "repository" (which is developer lingo for a project folder with code) by clicking on any of those "New" buttons (at the time of writing, these buttons are green) (you can also click the plus "+" sign at the top, and new repository). 
 
+## GitHub User vs. Organizational Pages
+
+<!-- link to official GitHub help page -->
+
 ## The Strange Case of Dr. Jekyll
+
+<!-- from Intro'ing GitHub Pages -->
 <!-- jekyll only works with static sites as mentioned in a previous section -->
+
 
 ## Build-a-Jekyll Workshop
 
-<!-- create your own HTML/Jekyll theme -->
+<!-- you can create your own Jekyll theme, but that is over the scope of this article. we can generate minima or convert an HTML theme -->
