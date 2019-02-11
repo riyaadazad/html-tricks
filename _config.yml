@@ -17,7 +17,7 @@ title: HTML-Tricks
 brand: HTML-Tricks
 email: azad.riyaad@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Tips, thoughts, and tutorials on everything Web.  <br>
+ Tips, thoughts, and tutorials on everything Web.  <br> <br>
 baseurl: "/html-tricks" # the subpath of your site, e.g. /blog
 aboutme: We are a tech site that wants to provide the latest developments in Web.
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
