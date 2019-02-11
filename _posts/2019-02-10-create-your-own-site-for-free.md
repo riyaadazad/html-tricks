@@ -16,4 +16,4 @@ The first step before beginning anything is to plan it out, and this applies esp
 It is totally fine to use a theme for your website, but make sure that you are legally allowed to. There are tons of free site themes on the web, but for this exercise we will be looking for "static" HTML themes, because the programs we will use later to generate the site only work with static sites (more on that later). 
 
 
-For the HTML-Tricks website, I used the theme called Telephasic
+For the HTML-Tricks website, I used the theme called [Telephasic](https://html5up.net/telephasic) from a designer called [HTML5 UP!](https://html5up.net/). _HTML5 UP!_ "makes spiffy HTML5 site templates that are: Fully Responsive, Built on intelligent HTML5 + CSS3, Super Customizable, 100% Free under the [Creative Commons](https://html5up.net/license)."
