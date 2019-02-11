@@ -28,7 +28,7 @@ For now, let's say that you are using your GitHub username to create your site f
 
 ## GitHub User vs. Organization vs. Project Pages
 
-Let's take a quick break and explain the difference between GitHub User, Project, and Organization pages. This section is a quick introduction, and since things could change later, please refer to the official full article from GitHub Help on User, Organization, and Project Pages [here](https://help.github.com/articles/user-organization-and-project-pages/).
+Let's take a quick break and explain the difference between GitHub User, Project, and Organization pages. Please note that this section is a quick introduction, and since things could change later, please refer to the official full article from GitHub Help on User, Organization, and Project Pages [here](https://help.github.com/articles/user-organization-and-project-pages/).
 
 ## The Strange Case of Dr. Jekyll
 
