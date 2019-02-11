@@ -1,6 +1,6 @@
 ---
 title: About
-layout: right-sidebar
+layout: default
 description: Bio bio bio!
 permalink: /about
 image: null
