@@ -3,14 +3,12 @@ title: About
 layout: right-sidebar
 description: Bio bio bio!
 permalink: /about
-image: #
+image: null
 ---
 
-HTML-Tricks is a tech blog that aims to provide the latest tips, thoughts, and tutorials in the field of (front-end) website development. We are conceptually like [CSS-Tricks](https://css-tricks.com/) and [W3Schools](https://www.w3schools.com/), but focus more on HTML.
+HTML-Tricks was created by [Riyaad Azad](https://riyaadazad.github.io) as a project for his Design, Multimedia &amp; Web Technologies course at [Briar Woods High School](https://www.lcps.org/bwhs). It is NOT a real site, and there are no warranties or guarantees on anything sourced from this site. To learn more about Riyaad Azad and his open source work, visit his personal website at [riyaadazad.github.io](https://riyaadazad.github.io), as well as his [GitHub](https://github.com/riyaadazad) and [Stack Overflow](https://stackoverflow.com/story/riyaadazad) profiles.
 
-
-
-See our official purpose below:
+See our official purpose statement below:
 
 ## Website Purpose Statement
 Coding Website | Prepared by Riyaad Azad
