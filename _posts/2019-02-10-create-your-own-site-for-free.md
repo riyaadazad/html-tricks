@@ -24,11 +24,13 @@ Of course, the catch is that your site will have a subdomain, such as "your-GitH
 
 Anyway, the way GitHub Pages works is that it uses your GitHub account username as the site name ("username.github.io"), so be sure to use an appropriate name. Although, if you desperately want to use a funny username, you can also create an organization page (see "GitHub User vs. Organization vs. Project Pages" below). 
 
+<!-- https://help.github.com/articles/what-is-github-pages/ -->
+
 For now, let's say that you are using your GitHub username to create your site from scratch. To do this, navigate to [github.com](https://github.com/) and sign in. Next, you'll need to create a new "repository" (which is developer lingo for a project folder with code) by clicking on any of those "New" buttons (at the time of writing, these buttons are green). You can also click the plus "+" sign at the top, and then clicking on "New repository". From there, you'll be able to name your repository.
 
 ## GitHub User vs. Organization vs. Project Pages
 
-Let's take a quick break and explain the difference between GitHub User, Project, and Organization pages. Please note that this section is a quick introduction, and since things could change later, please refer to the official full article from GitHub Help on User, Organization, and Project Pages [here](https://help.github.com/articles/user-organization-and-project-pages/).
+Let's take a quick break and explain the difference between GitHub User, Project, and Organization pages. Please note that this section is a quick introduction, and since things could change later, please refer to the official full article from GitHub Help on User, Organization, and Project Pages [here](https://help.github.com/articles/user-organization-and-project-pages/). According to GitHub Help, "There are two basic types of GitHub Pages sites: Project Pages sites, and User and Organization Pages sites. They are nearly identical but have some important differences." 
 
 ## The Strange Case of Dr. Jekyll
 
