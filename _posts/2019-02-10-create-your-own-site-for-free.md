@@ -22,13 +22,15 @@ In this section, I will assume that you have obtained some sort of HTML site tha
 
 Of course, the catch is that your site will have a subdomain, such as "your-GitHub-username.github.io/". This can work in your favor if you intend for your site to based on topics like technology, since GitHub is an industry-recognized product. If you prefer to not have your site domain with GitHub, you can check out other alternatives to GitHub Pages for free hosting, such as [Netlify](https://www.netlify.com/), which is "An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS. And that’s just the beginning." Sites published for free with Netlify will have a subdomain of "your-site-name.netlify.com". GitHub Pages and Netlify are conceptually similar, but since I am more familiar with GitHub Pages, so I will be using that in this article.
 
-Anyway, the way GitHub Pages works is that it uses your GitHub account username as the site name ("username.github.io"), so be sure to use an appropriate name. Although, if you desperately want to use a funny username, you can also create an organization page (see "GitHub User vs. Organizational Pages" below). 
+Anyway, the way GitHub Pages works is that it uses your GitHub account username as the site name ("username.github.io"), so be sure to use an appropriate name. Although, if you desperately want to use a funny username, you can also create an organization page (see "GitHub User vs. Organization vs. Project Pages" below). 
 
-For now, let's say that you are using your GitHub username to create your site from scratch (don't follow this section unless you did NOT use an HTML theme). To do this, navigate to [github.com](https://github.com/) and sign in. Next, you'll need to create a new "repository" (which is developer lingo for a project folder with code) by clicking on any of those "New" buttons (at the time of writing, these buttons are green). You can also click the plus "+" sign at the top, and then clicking on "New repository". From there, you'll be able to name your repository 
+For now, let's say that you are using your GitHub username to create your site from scratch. To do this, navigate to [github.com](https://github.com/) and sign in. Next, you'll need to create a new "repository" (which is developer lingo for a project folder with code) by clicking on any of those "New" buttons (at the time of writing, these buttons are green). You can also click the plus "+" sign at the top, and then clicking on "New repository". From there, you'll be able to name your repository.
 
-## GitHub User vs. Organizational Pages
+## GitHub User vs. Organization vs. Project Pages
 
 <!-- link to official GitHub help page -->
+
+Let's take a quick break and explain the difference between GitHub User, Project, and Organization pages. This section is a quick introduction, and since things could change later, please refer to the official full article from GitHub Help on User, Organization, and Project Pages [here](https://help.github.com/articles/user-organization-and-project-pages/).
 
 ## The Strange Case of Dr. Jekyll
 
