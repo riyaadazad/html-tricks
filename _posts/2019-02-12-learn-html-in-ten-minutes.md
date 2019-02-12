@@ -22,3 +22,5 @@ So what is HTML anyway, and why is it so important? HTML is fundamental
 ## 5. Hello Prose
 
 ## 6. Hello World
+
+## Goodbye
