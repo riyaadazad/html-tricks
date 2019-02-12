@@ -33,19 +33,14 @@ Anyway, the way GitHub Pages works is that it uses your GitHub account username 
 For now, let's say that you are using your GitHub username to create your site from scratch. To do this, navigate to [github.com](https://github.com/) and sign in. Next, you'll need to create a new "repository" (which is developer lingo for a project folder with code) by clicking on any of those "New" buttons (at the time of writing, these buttons are green). You can also click the plus "+" sign at the top, and then clicking on "New repository". From there, you'll be able to name your repository.
 
 ## GitHub User vs. Organization vs. Project Pages
-
 Let's take a quick break and explain the difference between GitHub User, Project, and Organization pages. Please note that this section is a quick introduction, and since things could change later, please refer to the official full article from GitHub Help on User, Organization, and Project Pages [here](https://help.github.com/articles/user-organization-and-project-pages/). According to GitHub Help, "There are two basic types of GitHub Pages sites: Project Pages sites, and User and Organization Pages sites. They are nearly identical but have some important differences." 
 
 Basically, GitHub User pages are like a personal homepage, where you can put anything you'd like, and it would be accessible at "github-username.github.io". A GitHub Organization page is the same concept, except for an organization that you own (you can create as many organizations under your GitHub username as you'd like, and from that you could create as many "site-name.github.io" sites as you please). A GitHub project page is a site that lives specifically in the project repository, or folderof code. It's link would be "github-name.github.io/project-repository-name", where "github-name" could be either your username or the name of an organization that you create. 
 
 ## The Strange Case of Dr. Jekyll
-
-<!-- from Intro'ing GitHub Pages -->
-<!-- jekyll only works with static sites as mentioned in a previous section -->
 You've read a lot about Jekyll in this post already, but you must be wondering what on earth (or mars) it is. Jekyll is basically the opposite of a dynamic (clickable) CMS like [Wordpress](https://wordpress.org/), [Squarespace](https://www.squarespace.com/), or [Wix](https://wix.com); Jekyll is a static site generator. This means that it takes in plain text (with a little bit of Markdown for formatting, such as bold or italics) and spits out a ready-made site or blog. As mentioned in a previous section, Jekyll _only_ works with static sites, so it will not work with sites that have PHP, etc. Those will need to be converted to something called [Liquid](https://github.com/Shopify/liquid/wiki) and YAML.
 
 ## Build-a-Jekyll Workshop
-
 <!-- you can create your own Jekyll theme, but that is over the scope of this article. we can generate minima or convert an HTML theme -->
 
-If you can dream, then you can build it. In this section, I'll show you how to generate 
+If you can dream, then you can build it. In this section, I'll show you how to generate your own ready-to-go Jekyll site. I'll assume that you have a GitHub account and have installed the Jekyll gem from the official Jekyll documentation (which can be found here), as well as Git (click here to visit the official installation page). It would be helpful
