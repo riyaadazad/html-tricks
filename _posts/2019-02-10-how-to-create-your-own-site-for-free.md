@@ -49,6 +49,8 @@ baseurl: /my-awesome-site
 
 Now, save and load (or reload) the page in your browser to see your site. Congratulations! You've just created your first Jekyll site. Now, we still need to put your site online for everybody to see, and if you are interested, then continue reading.
 
-## GitHub Pages
+## GitHub Pages in the Spotlight
+
+While you could use an alternative, like [Netlify](https://www.netlify.com/), GitHub Pages is an amazing piece of software that is created by a reputable, industry-recognized software company (GitHub), and in just a few steps you can have a project site with a url that looks like this: "your-username.github.io/site-name". Let's fire up your GitHub account and create a new repository by clicking on any of the green (as of the time of this writing) buttons that say "New", or clicking the plus "+" dropdown menu at the top and selecting "New repository". Then, in the repository name, you'll type in the name of the site you created (the same value that you gave for baseurl, but minus the forward slash). So, if you had followed the Quick-start Instructions on the [Jekyll homepage](https://jekyllrb.com/), you'd input "my-awesome-site" into the "Repository name" 
 
 ## 
