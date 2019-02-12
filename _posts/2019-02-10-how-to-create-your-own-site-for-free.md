@@ -63,6 +63,6 @@ And there you have it folks, your very own Jekyll site, online! You deserve to p
 
 ## /proz/ written or spoken language in its ordinary form, without metrical structure...
 
-Now that you have a site, it's time to write great content for it in your blog! There is a great, free program called [Prose](https://prose.io/) that 
+Now that you have a site, it's time to write great content for it in your blog! There is a great, free program called [Prose](https://prose.io/) that lets you write posts in, well, prose. You can even type posts online on your phone or tablet, and it is linked to your GitHub account (which is why I recommended GitHub Pages over Netlify).
 
 ## Wrapping Up
