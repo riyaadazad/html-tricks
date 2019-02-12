@@ -57,7 +57,10 @@ While you could use an alternative, like [Netlify](https://www.netlify.com/), Gi
 2. Click the dropdown for "Branch: master" (under "X commits" and "1 branch"), then type in "gh-pages" and hit enter on your keyboard
 3. Now go to the "Settings" tab (next to "Insights"), and click on "Branches" on the side navigation
 4. Under "Default branch", click the dropdown and change the default branch to "gh-pages", then go back to the "Code" tab
-5. Click "2 branches" (next to "X commits" and 
+5. Click "2 branches" (in between "X commits" and "0 releases" and then click the trash icon on any row that says "master"
+6. Wait a couple minutes, then navigate to your site (if you've been following these directions, your site should be at "your-github-username.github.io/your-repository-name"
+
+And there you have it folks, your very own Jekyll site, online! You deserve to pat yourself on the back. 
 
 ## /proz/ written or spoken language in its ordinary form, without metrical structure...
 
