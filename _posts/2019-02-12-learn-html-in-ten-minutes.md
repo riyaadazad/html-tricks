@@ -27,6 +27,8 @@ So what is HTML anyway, and why is it so important? HTML, which stands for "Hype
 
 Now go ahead and save the file with a file extension of ".html" or ".htm" (either is fine). Now open the file in your browser (double-clicking usually works), and voila! You should see the text "Hello World" on your screen (if you didn't, make sure that you did not omit an angle bracket "<"). 
 
+Okay, so the first line (\<!DOCTYPE html>) is telling the browser that it's looking at an HTML file. Notice how the next lines of code seem to be doubled? That's because each of those words in angle brackets are called "tags", which tells the browser how to display the text. The opening tag "\<html>", for example, always has a closing tag (\</html>), which is denoted by a forward slash, while a line break tag does not have a closing tag, and is merely "\<br>". The next tag, "\<body>", tells the browser that anything in here should 
+
 
 ## 2. Hello CSS
 
