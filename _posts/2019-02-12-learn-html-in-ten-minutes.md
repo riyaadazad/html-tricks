@@ -68,6 +68,8 @@ The "head" tag is mainly used for what is known as "metadata", and contains link
   
 \</html>
 
+Again, save the file and reload the page in your browser to see changes. If you've seen the browser tab at the top read what you wrote in the 
+
 ## 3. Hello Git
 
 ## 4. Hello GitHub Pages (and Jekyll)
