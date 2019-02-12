@@ -68,7 +68,9 @@ The "head" tag is mainly used for what is known as "metadata", and contains link
   
 \</html>
 
-Again, save the file and reload the page in your browser to see changes. If you've seen the browser tab at the top read what you wrote in the 
+Again, save the file and reload the page in your browser to see changes. If you've seen the browser tab at the top say what you wrote in your "title" tags, then good for you. 
+
+The "head" tag is sometimes also used for adding CSS to a webpage. CSS stands for "Cascading Style Sheets", and if HTML is thought of as the skeleton of a webpage, then CSS would be the skin and makeup (there is also a language called JavaScript that is beyond the scope of this article, but in this analogy, JavaScript would be the muscles of a webpage).
 
 ## 3. Hello Git
 
