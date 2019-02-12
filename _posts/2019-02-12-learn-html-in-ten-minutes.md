@@ -100,6 +100,31 @@ Within the "style" tags (which is within the "head" and then the "html" tags), t
 
 If I had wanted to make the entire body, and not just the "p", red, then I could have written "body" instead of "p" in the "style" tag, which is totally possible. But let's say I want the "body" to be blue instead of red... 
 
+\<!DOCTYPE html>
+
+\<html>
+
+\<head>
+
+\<title>Whatever You'd Like\</title>
+
+\<style>
+
+p {color: red;}
+body {color: blue;}
+
+\</style>
+
+\</head>
+  
+\<body>
+  
+\<p>Hello World\</p>
+  
+\<body>
+  
+\</html>
+
 ## 3. Hello Git
 
 ## 4. Hello GitHub Pages (and Jekyll)
