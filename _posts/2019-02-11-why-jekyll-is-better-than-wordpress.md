@@ -9,6 +9,4 @@ image-alt-text: Scrabble tiles spelling out the word website
 image-link: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WordPress.svg/2000px-WordPress.svg.png
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+In a [previous post](/how-to-create-your-own-site-for-free) I described how one could create their own website for free, and I utilized a program called Jekyll. 
