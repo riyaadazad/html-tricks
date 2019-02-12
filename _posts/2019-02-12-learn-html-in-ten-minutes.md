@@ -199,7 +199,7 @@ But wait, the site doesn't even look good anymore. That is because we need to mo
 Congratulations! Your site should be up and running! Why don't you change a few more items in the "\_config.yml" file, such as your email address, if you haven't already. You have really accomplished a lot. 
 
 ## 5. Hello Prose
-Remember how I told you to delete your local folder of code, because now you are working online. I just want to let you know that you don't need to do that all of the time, and since this is a beginner's tutorial I did not want to put too many unnecessary details. In fact, GitHub and Git are popular because of something called "Git init/clone/pull/push", and if you are interested you can read about it here on the [Git](https://git-scm.com/) official site, specifically the [Pro Git Book](https://git-scm.com/book/en/v2).
+Remember how I told you to delete your local folder of code, because now you are working online. I just want to let you know that you don't need to do that all of the time, and since this is a beginner's tutorial I did not want to put too many unnecessary details. In fact, GitHub and Git are popular because of something called "Git init/clone/pull/push", and if you are interested you can read about it here on the [Git](https://git-scm.com/) official site, specifically the [Pro Git Book](https://git-scm.com/book/en/v2). Usually, you could work locally on your [Jekyll posts](https://jekyllrb.com/docs/posts/) and then "push", or upload, your changes to GitHub to see it reflected online.
 
 ## 6. Hello World
 
