@@ -15,7 +15,7 @@ This is perhaps more of a CMS or no-CMS debate. A CMS is the abbreviated term fo
 
 An amazing alternative to the mess that is CMS is Jekyll, one of the more popular _static_ site generators out there. Unlike a CMS, which is dynamic and has a graphical user interface (WYSIWYG) for managing a website, static site generators are, well, static. This means that everything is done in basic text files with a "language" called Markdown. Markdown is not a hard language to learn (it is _definitely_ not as hard to learn as a traditional "programming" language, such as JavaScript), and is basically like writing a document in a text editor like Microsoft's Notepad, but instead of clicking on a button to bold or italicize a word, you would wrap 2 asterisks (\*) or underlines (\_) around it to bold or italicize the word, respectively. In Markdown, the word "Jekyll" with double asterisks wrapped around it (to bold the text), like \*\*jekyll\*\*, would appear as **Jekyll**. However, don't fret if you do not want to do this, because there are workarounds (see "Prose is Better Than Poetry").
 
-Jekyll generates a full-blown site from just text, HTML, and CSS files (with a little bit of other good stuff, like YAML and Liquid, but that is beyond the scope of this article). It is obviously more efficient than the clunky disaster that is Wordpress, and it 
+Jekyll generates a full-blown site from just text, HTML, and CSS files (with a little bit of other good stuff, like YAML and Liquid, but that is beyond the scope of this article). It is obviously more efficient than the clunky disaster that is Wordpress, and you benefit from using GitHub
 
 ## Prose is Better Than Poetry
 
