@@ -48,6 +48,8 @@ Now go back to your HTML file, and at the top, between the opening "html" and "b
   
 \</html>
 
+The "head" tag is mainly used for what is known as "metadata", and contains links and such to external CSS files (beyond the scope of this article), but most notably the "title" of the page. Bear in mind that this is actually the title for the browser tab, so it will not show up on the web "page" itself, perse.
+
 ## 3. Hello Git
 
 ## 4. Hello GitHub Pages (and Jekyll)
