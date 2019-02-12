@@ -9,7 +9,7 @@ image-alt-text: Scrabble tiles spelling out the word website
 image-link: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WordPress.svg/2000px-WordPress.svg.png
 ---
-In a [previous post](/how-to-create-your-own-site-for-free) I described how one could create their own website for free, and I utilized a program called Jekyll. Of course, there are many options other than Jekyll, such as the popular Wordpress.org. I'm here to show you why Jekyll is the better option when deciding how to manage your site.
+In a [previous post](/how-to-create-your-own-site-for-free) I described how one could create their own website for free, and I utilized a program called Jekyll (I will assume that you have the article, so as not to be redundant in explaining new terms). Of course, there are many options other than Jekyll, such as the popular Wordpress.org. I'm here to show you why Jekyll is the better option when deciding how to manage your site.
 
 This is perhaps more of a CMS or no-CMS debate. A CMS is the abbreviated term for a "content management system", which is a clickable, or dynamic, WYSIWYG ("what you see is what you get") software for managing blogs and websites. It can be heavy sometimes, and is probably overkill for many personal sites.
 
@@ -23,3 +23,4 @@ Jekyll generates a full-blown site from just text, HTML, and CSS files, with a l
 
 "Prose provides a beautifully simple content authoring environment for CMS-free websites. It's a web-based interface for managing content on GitHub. Use it to create, edit, and delete files, and save your changes directly to GitHub. Host your website on GitHub Pages for free, or set up your own GitHub webhook server. Prose has advanced support for Jekyll sites and markdown content. Prose detects markdown posts in Jekyll sites and provides syntax highlighting, a formatting toolbar, and draft previews in the site's full layout." -[prose.io](https://prose.io) website
 
+If you use GitHub and GitHub Pages for your website, Prose makes it easy to write posts for your blogs anywhere (on your computer or on your phone or tablet), without having to be restricted to a certain computer. However, it may not work well with alternatives to GitHub Pages, such as Netlify.
