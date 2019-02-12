@@ -42,8 +42,10 @@ Basically, GitHub User pages are like a personal homepage, where you can put any
 
 <!-- from Intro'ing GitHub Pages -->
 <!-- jekyll only works with static sites as mentioned in a previous section -->
-You've read a lot about Jekyll in this post already, but you must be wondering what on earth (or mars) it is. Jekyll is basically the opposite of a dynamic (clickable) CMS like Wordpress, Squarespace, or Wix; Jekyll is a static site generator. This means that it takes in plain text (with a little bit of Markdown for formatting, such as bold or italics) and spits out a ready-made site or blog. As mentioned in a previous section, Jekyll _only_ works with static sites, so it will not work with sites that have PHP, etc. Those will need to be converted to something called [Liquid](https://github.com/Shopify/liquid/wiki) and YAML.
+You've read a lot about Jekyll in this post already, but you must be wondering what on earth (or mars) it is. Jekyll is basically the opposite of a dynamic (clickable) CMS like [Wordpress](https://wordpress.org/), [Squarespace](https://www.squarespace.com/), or [Wix](https://wix.com); Jekyll is a static site generator. This means that it takes in plain text (with a little bit of Markdown for formatting, such as bold or italics) and spits out a ready-made site or blog. As mentioned in a previous section, Jekyll _only_ works with static sites, so it will not work with sites that have PHP, etc. Those will need to be converted to something called [Liquid](https://github.com/Shopify/liquid/wiki) and YAML.
 
 ## Build-a-Jekyll Workshop
 
 <!-- you can create your own Jekyll theme, but that is over the scope of this article. we can generate minima or convert an HTML theme -->
+
+If you can dream, then you can build it. In this section, I'll show you how to generate 
