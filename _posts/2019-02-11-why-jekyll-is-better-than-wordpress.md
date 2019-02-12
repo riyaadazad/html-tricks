@@ -9,7 +9,7 @@ image-alt-text: Scrabble tiles spelling out the word website
 image-link: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WordPress.svg/2000px-WordPress.svg.png
 ---
-In a [previous post](/how-to-create-your-own-site-for-free) I described how one could create their own website for free, and I utilized a program called Jekyll (I will assume that you have the article, so as not to be redundant in explaining new terms). Of course, there are many options other than Jekyll, such as the popular Wordpress.org. I'm here to show you why Jekyll is the better option when deciding how to manage your site.
+In a [previous post](/how-to-create-your-own-site-for-free) I described how one could create their own website for free, and I utilized a program called [Jekyll](https://jekyllrb.com/) (I will assume that you have the article, so as not to be redundant in explaining new terms). Of course, there are many options other than Jekyll, such as the popular Wordpress.org. I'm here to show you why Jekyll is the better option when deciding how to manage your site.
 
 This is perhaps more of a CMS or no-CMS debate. A CMS is the abbreviated term for a "content management system", which is a clickable, or dynamic, WYSIWYG ("what you see is what you get") software for managing blogs and websites. It can be heavy sometimes, and is probably overkill for many personal sites.
 
@@ -29,4 +29,4 @@ For the HTML-Tricks website, we use GitHub Pages to host our site, and GitHub Pa
 
 ## Closing Thoughts
 
-In a nutshell, CMS programs like Wordpress can be overkill for many small personal sites and blogs (and even big sites - the [HealthCare.gov](https://www.healthcare.gov/) site is actually powered by Jekyll). To say that it is bulky is an understatement. As someone who has had the unfortunate  
+In a nutshell, CMS programs like Wordpress can be overkill for many small personal sites and blogs (and even big sites - the [HealthCare.gov](https://www.healthcare.gov/) site is actually powered by Jekyll). To say that it is bulky is an understatement. As someone who has unfortunately been exposed to Wordpress and dynamic content management systems, I would like to present a different solution: static site generators. 
