@@ -36,9 +36,9 @@ Now go back to your HTML file, and at the top, between the opening "html" and "b
 
 \<html>
 
-\<head>
+**\<head>**
 
-\</head>
+**\</head>**
   
 \<body>
   
@@ -54,11 +54,11 @@ The "head" tag is mainly used for what is known as "metadata", and contains link
 
 \<html>
 
-**\<head>**
+\<head>
 
-\<title>Whatever You'd Like\</title>
+**\<title>**Whatever You'd Like**\</title>**
 
-**\</head>**
+\</head>
   
 \<body>
   
