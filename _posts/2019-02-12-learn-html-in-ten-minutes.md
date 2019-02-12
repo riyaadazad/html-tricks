@@ -179,6 +179,11 @@ Once you are in the "New repository" page, if you've followed the instructions s
 
 Now, you'll want to open your local folder with Jekyll called "my-awesome-site" or whatever you chose to name it, and then drag and drop all of the contents of the folder into the GitHub repository (pretty self-explanatory). Once everything loads, scroll down the GitHub page and click on "Commit" (basically like a "file save", but you write a comment everything time). 
 
+You won't see your site online just yet, as we still have two more things to do. First of all, you'll need to:
+
+1. Navigate back to the "Code" tab, if you are not there already
+2. 
+
 
 ## 5. Hello Prose
 
