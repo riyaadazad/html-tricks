@@ -119,7 +119,7 @@ If I had wanted to make the entire body, and not just the "p", red, then I could
 \<style>
 
 p {color: red;}
-body {color: blue;}
+**body {color: blue;}**
 
 \</style>
 
@@ -135,7 +135,7 @@ body {color: blue;}
   
 \</html>
 
-Oh, now the 
+Oh, now everything (even the header) is blue. Now go ahead and try this:
 
 ## 3. Hello Git
 
