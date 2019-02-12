@@ -208,5 +208,7 @@ Anyway, once you head over to [prose.io](https://prose.io/) and authorize (sign 
 
 Now, feel free to edit and save by using the provided controls or clicking `ctrl+s`, which is signicantly faster. You can preview the Markdown by clicking the eye icon, change metadata (if you're wondering what this is, I _really_ _strongly_ suggest reading the official Jekyll step-by-step guide all the way through - it's really short, and it's right [here](https://jekyllrb.com/docs/step-by-step/01-setup/)), change settings, and save the file (albeit the long way).
 
+And when you're finished editing a post, click "Unpublished" at the top to mark the page for publishing, then once you save the page again, it should say "Published". Be sure to wait a couple minutes because the changes are not usually instantaneous (that is what the Jekyll live preview is for, but that was beyond the scope of this article). 
+
 ## Goodbye
 And there you have it, folks. Your very own free website with a way to add more content. I hope that this post was helpful for you. Have a nice day!
