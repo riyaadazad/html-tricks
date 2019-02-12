@@ -9,7 +9,7 @@ image-link: 'https://c1.staticflickr.com/5/4099/4919659112_70f8836dfa.jpg'
 ---
 In a [previous post](/how-to-create-your-own-site-for-free) I described how one could create their own website for free, and I utilized a program called [Jekyll](https://jekyllrb.com/) (I will assume that you have the article, so as not to be redundant in explaining new terms). Of course, there are many options other than Jekyll, such as the popular Wordpress.org. I'm here to show you why Jekyll is the better option when deciding how to manage your site.
 
-This is perhaps more of a CMS or no-CMS debate. A CMS is the abbreviated term for a "content management system", which is a clickable, or dynamic, WYSIWYG ("what you see is what you get") software for managing blogs and websites. It can be heavy sometimes, and is probably overkill for many personal sites.
+This is perhaps more of a CMS or no-CMS debate. A CMS is an abbreviated term for a "content management system", which is a clickable, or dynamic, WYSIWYG ("what you see is what you get") software for managing blogs and websites. It can be heavy sometimes and is probably overkill for many personal sites.
 
 ## Of Messes and Disasters
 
