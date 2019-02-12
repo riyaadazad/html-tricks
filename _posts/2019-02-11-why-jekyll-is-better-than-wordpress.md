@@ -1,7 +1,7 @@
 ---
 published: true
 layout: right-sidebar
-description: 'KISS Wordpress goodbye - Jekyll Keeps It Simple, Stupid'
+description: Exploring Alternatives to the Traditional CMS
 permalink: /why-jekyll-is-better-than-wordpress
 image: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WordPress.svg/2000px-WordPress.svg.png
