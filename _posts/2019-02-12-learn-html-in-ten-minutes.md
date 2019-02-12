@@ -182,7 +182,14 @@ Now, you'll want to open your local folder with Jekyll called "my-awesome-site" 
 You won't see your site online just yet, as we still have two more things to do. First of all, you'll need to:
 
 1. Navigate back to the "Code" tab, if you are not there already
-2. 
+2. Click on "Branch: master" and type in "gh-pages" (case-sensitive) and hit enter on your keyboard
+3. Go to the "Settings" tab and click on "Branches", then under "Default branch", change it from "master" to "gh-pages"
+4. Navigate back to the "Code" tab, and click on where it says "2 branches" (should be next to "X commits" and "0 releases")
+5. Click the trash icon on any row marked "master"
+
+Explanation: GitHub Pages works with GitHub Users, GitHub Projects, and GitHub Organizations. If you were to create a user page, you would have had to name your repository after your username, such as "username.github.io" instead of "my-awesome-site". A GitHub Projects page is what we are working on right now, and the steps that were outlined above dictate how to change the branch from the default ("master") to the GitHub Pages branch ("gh-pages"), which will help us avoid any trouble in the near future. And GitHub Organizations pages are conceptually like GitHub User pages, in that they are named after the organization name ("org-name.github.io"). A GitHub User can create many organizations, but use them wisely. 
+
+But wait, the site doesn't even look good anymore. That is because
 
 
 ## 5. Hello Prose
