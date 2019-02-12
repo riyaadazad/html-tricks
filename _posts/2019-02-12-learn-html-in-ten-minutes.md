@@ -196,7 +196,7 @@ But wait, the site doesn't even look good anymore. That is because we need to mo
 3. Find the pencil icon near the top right of the file (it will be next to "Raw", "Blame", and "History") and click it
 4. Now scroll to baseurl and make the change that was described in the above paragraph
 
-Congratulations! Your site should be up and running! Why don't you change a few more items in the "\_config.yml" file, such as your email address, if you haven't already. 
+Congratulations! Your site should be up and running! Why don't you change a few more items in the "\_config.yml" file, such as your email address, if you haven't already. You have really accomplished a lot. 
 
 
 ## 5. Hello Prose
