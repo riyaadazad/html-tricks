@@ -96,6 +96,10 @@ p {color: red;}
   
 \</html>
 
+Within the "style" tags (which is within the "head" and then the "html" tags), the "p" is selecting the "p" tag, then whatever comes next in the brackets ("\{" and "\}") will style whatever is in the "p" tag, and in this case the color is changed to red. 
+
+If I had wanted to make the entire body, and not just the "p", red, then I could have written "body" instead of "p" in the "style" tag, which is totally possible. But let's say I want the "body" to be blue instead of red... 
+
 ## 3. Hello Git
 
 ## 4. Hello GitHub Pages (and Jekyll)
