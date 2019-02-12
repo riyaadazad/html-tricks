@@ -51,10 +51,13 @@ Now, save and load (or reload) the page in your browser to see your site. Congra
 
 ## GitHub Pages in the Spotlight
 
-While you could use an alternative, like [Netlify](https://www.netlify.com/), GitHub Pages is an amazing piece of software that is created by a reputable, industry-recognized software company (GitHub), and in just a few steps you can have a project site with a url that looks like this: "your-username.github.io/site-name". Let's fire up your GitHub account and create a new repository by clicking on any of the green (as of the time of this writing) buttons that say "New", or clicking the plus "+" dropdown menu at the top and selecting "New repository". Then, in the repository name, you'll type in the name of the site you created (the same value that you gave for baseurl, but minus the forward slash). So, if you had followed the Quick-start Instructions on the [Jekyll homepage](https://jekyllrb.com/), you'd input "my-awesome-site" into the "Repository name", and then check the box next to  "Initialize this repository with a README", then under "Add .gitignore", search for and click "Jekyll" (a gitignore basically tells Git and GitHub not to worry about syncing a bunch of unnecessary files, produced in this case by Jekyll). Now, click "Create repository", and voila! Now, it's not done yet. You'll have to switch to what is known as a new "branch", call it "gh-pages", and make it default. Keep reading.
+While you could use an alternative, like [Netlify](https://www.netlify.com/), GitHub Pages is an amazing piece of software that is created by a reputable, industry-recognized software company (GitHub), and in just a few steps you can have a project site with a url that looks like this: "your-username.github.io/site-name". Let's fire up your GitHub account and create a new repository by clicking on any of the green (as of the time of this writing) buttons that say "New", or clicking the plus "+" dropdown menu at the top and selecting "New repository". Then, in the repository name, you'll type in the name of the site you created (the same value that you gave for baseurl, but minus the forward slash). So, if you had followed the Quick-start Instructions on the [Jekyll homepage](https://jekyllrb.com/), you'd input "my-awesome-site" into the "Repository name", and then check the box next to  "Initialize this repository with a README", then under "Add .gitignore", search for and click "Jekyll" (a gitignore basically tells Git and GitHub not to worry about syncing a bunch of unnecessary files, produced in this case by Jekyll). Now, click "Create repository", and voila! Now, it's not done yet. You'll have to switch to what is known as a new "branch", call it "gh-pages", and make it default.
 
-## Tying Up Loose Ends
-Follow these directions
+1. You should be in the "Code" tab of your repository page
+2. Click the dropdown for "Branch: master" (under "X commits" and "1 branch"), then type in "gh-pages" and hit enter on your keyboard
+3. Now go to the "Settings" tab (next to "Insights"), and click on "Branches" on the side navigation
+4. Under "Default branch", click the dropdown and change the default branch to "gh-pages", then go back to the "Code" tab
+5. Click "2 branches" (next to "X commits" and 
 
 ## /proz/ written or spoken language in its ordinary form, without metrical structure...
 
