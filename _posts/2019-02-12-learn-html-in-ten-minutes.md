@@ -19,7 +19,9 @@ So what is HTML anyway, and why is it so important? HTML, which stands for "Hype
   
 \<body>
   
-\<p>Hello World\</p>
+\<h1>Hello World!\</p>
+
+\<p>Hello again.\</p>
   
 \<body>
   
@@ -41,8 +43,10 @@ Now go back to your HTML file, and at the top, between the opening "html" and "b
 **\</head>**
   
 \<body>
-  
-\<p>Hello World\</p>
+    
+\<h1>Hello World!\</p>
+
+\<p>Hello again.\</p>
   
 \<body>
   
@@ -61,8 +65,10 @@ The "head" tag is mainly used for what is known as "metadata", and contains link
 \</head>
   
 \<body>
-  
-\<p>Hello World\</p>
+   
+\<h1>Hello World!\</p>
+
+\<p>Hello again.\</p>
   
 \<body>
   
@@ -89,8 +95,10 @@ p {color: red;}
 \</head>
   
 \<body>
-  
-\<p>Hello World\</p>
+    
+\<h1>Hello World!\</p>
+
+\<p>Hello again.\</p>
   
 \<body>
   
@@ -118,12 +126,16 @@ body {color: blue;}
 \</head>
   
 \<body>
-  
-\<p>Hello World\</p>
+    
+\<h1>Hello World!\</p>
+
+\<p>Hello again.\</p>
   
 \<body>
   
 \</html>
+
+Oh, now the 
 
 ## 3. Hello Git
 
