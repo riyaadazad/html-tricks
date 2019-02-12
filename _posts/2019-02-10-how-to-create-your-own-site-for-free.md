@@ -42,3 +42,13 @@ You've read a lot about Jekyll in this post already, but you must be wondering w
 
 ## Build-a-Jekyll Workshop
 If you can dream, then you can build it. And while you _can_ create your own Jekyll theme (why, you can convert pretty much _any_ [HTML theme into a Jekyll](https://jekyllrb.com/tutorials/convert-site-to-jekyll/) theme), that is beyond the scope of this article. Nevertheless, in this section, I'll show you how to generate your own ready-to-go Jekyll site with a readymade theme called [Minima](https://github.com/jekyll/minima). I'll assume that you have a [GitHub](https://github.com/) account and have [installed the Jekyll gem](https://jekyllrb.com/docs/installation/) from the official Jekyll documentation (I recommend that you follow the official "Guide" for your operating system, which can be found [here](https://jekyllrb.com/docs/installation/#guides)), as well as [Git](https://git-scm.com/). 
+
+Now, just follow the "Quick-start Instructions" on the [Jekyll homepage](https://jekyllrb.com/), then, using your file manager, navigate to the file "\_config.yml" within your newly created site (folder), and where the value is "baseurl", add the name of your site with a prepended forward slash. If you had followed the Quick-start Instructions, your line of code would look like this:
+
+baseurl: /my-awesome-site
+
+Now, save and load (or reload) the page in your browser to see your site. Congratulations! You've just created your first Jekyll site. Now, we still need to put your site online for everybody to see, and if you are interested, then continue reading.
+
+## GitHub Pages
+
+## 
