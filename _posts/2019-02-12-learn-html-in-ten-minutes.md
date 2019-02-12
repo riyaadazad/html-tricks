@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: right-sidebar
 description: Make today the day you finally learn to build a website
 permalink: /learn-html-in-ten-minutes
