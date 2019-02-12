@@ -177,7 +177,7 @@ Now that you have successfully completed the installation of Jekyll, go back to 
 
 Once you are in the "New repository" page, if you've followed the instructions so far, your local (not-on-GitHub-yet) site (folder) should be called "my-awesome-site". If not, that's okay. In the GitHub "New repository" page, put the name of the Jekyll site that you generated (in the example it would be "my-awesome-site". Then, at the bottom, click on "Add .gitignore" and search for and click on "Jekyll" in the dropdown menu (a gitignore is basically telling GitHub that we do not need to sync certain files everytime you "save" the repository, and GitHub now knows automatically which files are Jekyll files that need to be ignored and which files are _your_ files, which is awesome in itself). Then, click "Initialize this repository with a README". Finally, click "Create repository". Yay, you've just created your first repository on GitHub! 
 
-Now, you'll want to open your local folder with Jekyll called "my-awesome-site" or whatever you chose to name it, and then drag and drop all of the contents of the folder into the GitHub repository (pretty self-explanatory). Once everything loads, scroll down the GitHub page and click on "Commit" (basically like a "file save", but you write a comment everything time). 
+Now, you'll want to open your local folder with Jekyll called "my-awesome-site" or whatever you chose to name it, and then drag and drop all of the contents of the folder into the GitHub repository (pretty self-explanatory). Once everything loads, scroll down the GitHub page and click on "Commit" (basically like a "file save", but you write a comment everything time). Once you've verified that the files uploaded to GitHub, go ahead and delete the folder on your computer (in this tutorial, we will _not_ be utilizing Jekyll in the terminal and live previews).  
 
 You won't see your site online just yet, as we still have two more things to do. First of all, you'll need to:
 
@@ -189,7 +189,7 @@ You won't see your site online just yet, as we still have two more things to do.
 
 Explanation: GitHub Pages works with GitHub Users, GitHub Projects, and GitHub Organizations. If you were to create a user page, you would have had to name your repository after your username, such as "username.github.io" instead of "my-awesome-site". A GitHub Projects page is what we are working on right now, and the steps that were outlined above dictate how to change the branch from the default ("master") to the GitHub Pages branch ("gh-pages"), which will help us avoid any trouble in the near future. And GitHub Organizations pages are conceptually like GitHub User pages, in that they are named after the organization name ("org-name.github.io"). A GitHub User can create many organizations, but use them wisely. 
 
-But wait, the site doesn't even look good anymore. That is because
+But wait, the site doesn't even look good anymore. That is because we need to modify a setting in your "\_config.yml" file. The "\_config.yml" file is like the settings hub for your entire Jekyll site, and is used to manage things such as your name, email address, the "title" (remember earlier) of your site, and a description of your site. But it also has options for a "baseurl", and that is what we are going to change. Right now, the "baseurl" should be blank, but in the 
 
 
 ## 5. Hello Prose
