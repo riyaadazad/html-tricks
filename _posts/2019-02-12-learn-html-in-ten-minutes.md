@@ -81,6 +81,7 @@ The "head" tag is sometimes also used for adding CSS to a webpage. CSS stands fo
 \<title>Whatever You'd Like\</title>
 
 **\<style>**
+
 p {color: red;}
 
 **\</style>**
