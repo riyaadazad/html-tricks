@@ -43,4 +43,4 @@ You've read a lot about Jekyll in this post already, but you must be wondering w
 ## Build-a-Jekyll Workshop
 <!-- you can create your own Jekyll theme, but that is over the scope of this article. we can generate minima or convert an HTML theme -->
 
-If you can dream, then you can build it. In this section, I'll show you how to generate your own ready-to-go Jekyll site. I'll assume that you have a GitHub account and have installed the Jekyll gem from the official Jekyll documentation (which can be found here), as well as Git (click here to visit the official installation page). It would be helpful
+If you can dream, then you can build it. In this section, I'll show you how to generate your own ready-to-go Jekyll site. I'll assume that you have a GitHub account and have installed the Jekyll gem from the official Jekyll documentation (which can be found here), as well as Git (click here to visit the official installation page). It is good if you 
