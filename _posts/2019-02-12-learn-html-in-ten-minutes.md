@@ -19,7 +19,7 @@ So what is HTML anyway, and why is it so important? HTML, which stands for "Hype
   
 \<body>
   
-\<p>Hello World</p>
+\<p>Hello World\</p>
   
 \<body>
   
