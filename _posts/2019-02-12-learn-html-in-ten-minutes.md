@@ -135,7 +135,36 @@ p {color: red;}
   
 \</html>
 
-Oh, now everything (even the header) is blue. Now go ahead and try this:
+Okay, now everything (even the header) is blue. Now go ahead and try this:
+
+\<!DOCTYPE html>
+
+\<html>
+
+\<head>
+
+\<title>Whatever You'd Like\</title>
+
+\<style>
+
+**body {color: blue;}**
+p {color: red;}
+
+\</style>
+
+\</head>
+  
+\<body>
+    
+\<h1>Hello World!\</p>
+
+\<p>Hello again.\</p>
+  
+\<body>
+  
+\</html>
+
+Huh. Now the "p" is red, but the header is blue. How can this be, you ask? Because a browser reads CSS in order, and whatever is more specific is what the browser shows. In this example, the "p" tag is more specifically inside the "body" tag, so it becomes red. In the previous example, I had set "p" to be red and then changed the color of the body to blue, so CSS made everything blue because the computer/browser reads code in order. 
 
 ## 3. Hello Git
 
