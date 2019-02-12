@@ -27,3 +27,5 @@ If you use GitHub and GitHub Pages for your website, adding Prose to your workfl
 
 For the HTML-Tricks website, we use GitHub Pages to host our site, and GitHub Pages is powered by Jekyll. We have also implemented Prose into our workflow (all it takes is a simple sign in to GitHub from the [prose.io](https://prose.io) site, and you're good to go). In fact, this post was written 100% on Prose. You can even preview your post before it's published without trouble, which is apparently a selling point for some folks.
 
+## Closing Thoughts
+
