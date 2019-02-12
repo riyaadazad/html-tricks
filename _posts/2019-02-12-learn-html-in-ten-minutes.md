@@ -14,10 +14,15 @@ In the next ten minutes, I'll teach you everything that you need to know to get 
 So what is HTML anyway, and why is it so important? HTML, which stands for "HyperText Markup Lanuage", is a fundamental part of every website. If you see words on any website, chances are that those words were written in an HTML file. To write your first line of code (which many call a "Hello World" application, for obvious reasons), fire up any text editor (Microsoft Notepad, Apple TextEdit - as long as it is not something like Microsoft Word, which is a _rich_ text editor, not a regular text editor) and type in the following:
 
 `<!DOCTYPE html>`
+
 `<html>`
+
 `<body>`
+
 `<p>Hello World</p>`
+
 `<body>`
+
 `</html>`
 
 
