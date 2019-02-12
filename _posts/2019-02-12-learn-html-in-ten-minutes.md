@@ -168,9 +168,10 @@ Huh. Now the "p" is red, but the header is blue. How can this be, you ask? Becau
 
 ## 3. Hello Git
 
-What if we had wanted to go back in time to see the HTML file before we started changing colors. Well, that's what [Git](https://git-scm.com/) is for! Git is version control system for (source) code, which is fancy terms for "Google Drive for code" (or Dropbox or OneDrive, everybody is entitled to their own opinions).  
+What if we had wanted to go back in time to see the HTML file before we started changing colors. Well, that's what [Git](https://git-scm.com/) is for! Git is version control system for (source) code, which is fancy terms for "Google Drive for code" (or Dropbox or OneDrive, everybody is entitled to their own opinions). Git is used in the computer terminal, and is bit over the scope of this article, but it is important that you note the importance of this very important little tool.  
 
 ## 4. Hello GitHub Pages (and Jekyll)
+No matter if you use Git or not, [GitHub](https://github.com/) (or one of it's alternatives, such as [GitLab](https://about.gitlab.com/), BitBucket, or Sourceforge) is a must-have.
 
 ## 5. Hello Prose
 
