@@ -29,3 +29,4 @@ For the HTML-Tricks website, we use GitHub Pages to host our site, and GitHub Pa
 
 ## Closing Thoughts
 
+In a nutshell, CMS programs like Wordpress can be overkill for many small personal sites and blogs (and even big sites - the [HealthCare.gov](https://www.healthcare.gov/) site is actually powered by Jekyll).
