@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: right-sidebar
 description: 'KISS Wordpress goodbye - Jekyll Keeps It Simple, Stupid'
 permalink: /why-jekyll-is-better-than-wordpress
