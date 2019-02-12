@@ -119,6 +119,7 @@ If I had wanted to make the entire body, and not just the "p", red, then I could
 \<style>
 
 p {color: red;}
+
 **body {color: blue;}**
 
 \</style>
