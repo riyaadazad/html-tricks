@@ -11,7 +11,7 @@ image-link: 'https://c1.staticflickr.com/8/7604/16825139748_164c759a9e_b.jpg'
 In the next ten minutes, I'll teach you everything that you need to know to get started building your very own website. Start your timer. On your mark, get set, go!
 
 ## 1. Hello HTML
-So what is HTML anyway, and why is it so important? HTML is fundamental
+So what is HTML anyway, and why is it so important? HTML, which stands for "HyperText Markup Lanuage", is a fundamental part of every website, and makes up 90% of the text that you see on the web. 
 
 ## 2. Hello CSS
 
