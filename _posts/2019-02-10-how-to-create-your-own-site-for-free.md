@@ -42,7 +42,7 @@ Basically, GitHub User pages are like a personal homepage, where you can put any
 
 <!-- from Intro'ing GitHub Pages -->
 <!-- jekyll only works with static sites as mentioned in a previous section -->
-You've read a lot about Jekyll in this post already, but you must be wondering what on earth (or mars) it is. Jekyll is basically the opposite of a dynamic (clickable) CMS like Wordpress, Squarespace, or Wix; Jekyll is a static site generator. This means that it takes in plain text (with a little bit of Markdown for formatting, such as bold or italics) and generates 
+You've read a lot about Jekyll in this post already, but you must be wondering what on earth (or mars) it is. Jekyll is basically the opposite of a dynamic (clickable) CMS like Wordpress, Squarespace, or Wix; Jekyll is a static site generator. This means that it takes in plain text (with a little bit of Markdown for formatting, such as bold or italics) and spits out a ready-made site or blog. 
 
 ## Build-a-Jekyll Workshop
 
