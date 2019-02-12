@@ -164,9 +164,11 @@ p {color: red;}
   
 \</html>
 
-Huh. Now the "p" is red, but the header is blue. How can this be, you ask? Because a browser reads CSS in order, and whatever is more specific is what the browser shows. In this example, the "p" tag is more specifically inside the "body" tag, so it becomes red. In the previous example, I had set "p" to be red and then changed the color of the body to blue, so CSS made everything blue because the computer/browser reads code in order. 
+Huh. Now the "p" is red, but the header is blue. How can this be, you ask? Because a browser reads CSS in order, and whatever is more specific is what the browser shows. In this example, the "p" tag is more specifically inside the "body" tag, so it becomes red. In the previous example, I had set "p" to be red and then changed the color of the body to blue, so CSS made everything blue because the computer/browser reads code in order. And that's the beauty of coding! 
 
 ## 3. Hello Git
+
+What if we had wanted to go back in time to see the HTML file before we started changing colors. Well, that's what [Git](https://git-scm.com/) is for! Git is version control system for (source) code, which is fancy terms for "Google Drive for code" (or Dropbox or OneDrive, everybody is entitled to their own opinions).  
 
 ## 4. Hello GitHub Pages (and Jekyll)
 
