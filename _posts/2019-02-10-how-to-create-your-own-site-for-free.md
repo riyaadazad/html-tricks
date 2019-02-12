@@ -60,7 +60,7 @@ While you could use an alternative, like [Netlify](https://www.netlify.com/), Gi
 5. Click "2 branches" (in between "X commits" and "0 releases" and then click the trash icon on any row that says "master"
 6. Wait a couple minutes, then navigate to your site (if you've been following these directions, your site should be at "your-github-username.github.io/your-repository-name"
 
-And there you have it folks, your very own Jekyll site, online! You deserve to pat yourself on the back. 
+And there you have it folks, your very own Jekyll site, online! You deserve to pat yourself on the back. :smiley"
 
 ## /proz/ written or spoken language in its ordinary form, without metrical structure...
 
