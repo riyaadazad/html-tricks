@@ -4,7 +4,9 @@ layout: default
 description: Bio bio bio!
 permalink: /about
 image: null
+published: true
 ---
+![IMG_7313.jpg]({{site.baseurl}}/images/IMG_7313.jpg)
 
 HTML-Tricks was created by [Riyaad Azad](https://riyaadazad.github.io) as a project for his Design, Multimedia &amp; Web Technologies course at [Briar Woods High School](https://www.lcps.org/bwhs). It is NOT a real site, and there are no warranties or guarantees on anything sourced from this site. To learn more about Riyaad Azad and his open source work, visit his personal website at [riyaadazad.github.io](https://riyaadazad.github.io), as well as his [GitHub](https://github.com/riyaadazad) and [Stack Overflow](https://stackoverflow.com/story/riyaadazad) profiles.
 
