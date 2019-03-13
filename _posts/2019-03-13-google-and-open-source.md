@@ -11,6 +11,5 @@ image-alt-text: A laptop with the Google site open
 image-link: >-
   https://www.maxpixel.net/static/photo/1x/Notebook-Netbook-Laptop-Internet-Search-Engine-1519471.jpg
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## UPDATE GOOGLE CHROME!
+If you are using Google Chrome, update it now, before you read this article. Google has recently fixed a zero-day vulnerability with Google Chrome on all platforms. This includes Apple macOS and iOS, Android, Windows, and Linux.
