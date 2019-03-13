@@ -3,9 +3,11 @@ published: true
 layout: right-sidebar
 description: Exploring Alternatives to the Traditional CMS
 permalink: /why-jekyll-is-better-than-wordpress
-image: 'https://c1.staticflickr.com/5/4099/4919659112_70f8836dfa.jpg'
+image: >-
+  https://www.maxpixel.net/static/photo/1x/Lanyards-Blog-Wordpress-Logo-Blue-Blogging-Code-552922.jpg
 image-alt-text: Wordpress Logo
-image-link: 'https://c1.staticflickr.com/5/4099/4919659112_70f8836dfa.jpg'
+image-link: >-
+  https://www.maxpixel.net/static/photo/1x/Lanyards-Blog-Wordpress-Logo-Blue-Blogging-Code-552922.jpg
 ---
 In a [previous post](/how-to-create-your-own-site-for-free) I described how one could create their own website for free, and I utilized a program called [Jekyll](https://jekyllrb.com/) (I will assume that you have the article, so as not to be redundant in explaining new terms). Of course, there are many options other than Jekyll, such as the popular Wordpress.org. I'm here to show you why Jekyll is the better option when deciding how to manage your site.
 
