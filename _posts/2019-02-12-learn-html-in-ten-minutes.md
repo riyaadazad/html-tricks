@@ -3,9 +3,11 @@ published: true
 layout: right-sidebar
 description: Make today the day you finally learn to build a website
 permalink: /learn-html-in-ten-minutes
-image: 'https://c1.staticflickr.com/8/7604/16825139748_164c759a9e_b.jpg'
-image-alt-text: HTML Scrabble
-image-link: 'https://c1.staticflickr.com/8/7604/16825139748_164c759a9e_b.jpg'
+image: >-
+  https://www.maxpixel.net/static/photo/1x/Code-Data-Programming-Code-Computer-Programming-944504.jpg
+image-alt-text: Code in a text editor
+image-link: >-
+  https://www.maxpixel.net/static/photo/1x/Code-Data-Programming-Code-Computer-Programming-944504.jpg
 ---
 ## Hello Hello
 In the next ten minutes, I'll teach you everything that you need to know about HTML, and if you'd like to continue, I also included how to get started building your very own website. Start your timer. On your mark, get set, go!
