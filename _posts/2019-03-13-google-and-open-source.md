@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: right-sidebar
 description: >-
   After a zero-day vulnerability scare, can users still trust Google and open
