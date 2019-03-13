@@ -17,4 +17,12 @@ CSS is the abbreviation for "Cascading Style Sheets" - it says what it does and 
 
 CSS consists of selectors and values. The selector selects the corresponding HTML tag, and the values dictate how to further style the tag/element (most web browsers add basic styling to a web page with no CSS, such as font size and font family). If you were trying to style the main header (h1) tag of a web page to make it have blue text, a yellow background, and a font size of 28 pixels, your CSS code would look like this:
 
-`/*` This is a comment in CSS: the opening comment looks like `/*` and the 
+`/*` This is a comment in CSS: the opening comment looks like `/*` and the closing comment looks like `*/` `*/`
+h1 { `/*` "h1" is selecting the header tag, and everything inside the brackets include values to style the h1 tag `*/`
+color: blue; `/*` The "color" tells the web browser that the color should be changed to the "value" "blue". Don't forget the semi-color ";" at the end - it tells the browser to move to the next style to apply to the element! `*/`
+background-color: yellow; `/*` Changes the "background-color" to the "value" "yellow". Sort of makes the text look like it was highlighted. `*/`
+font-size: 28px; `/*` Makes the size of the font 28 "pixels", or "px", suitable for many headers. `*/`
+} `/*` Tells the web browser rendering the web page that this is the end of the styles for the h1 tag, for now (you can add "CSS blocks" like this as many times as you like, although it is best practice to keep all the values for a selected HTML element together, rather than separate) `*/`
+
+## Connect 
+link to html
