@@ -9,6 +9,5 @@ image-alt-text: Wordpress Logo
 image-link: >-
   https://www.maxpixel.net/static/photo/1x/Programming-Program-Source-Code-Code-Javascript-3337044.jpg
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Intro
+So you've decided that you want a website. You did the research and you chose a platform such as [Wordpress](https://wordpress.org/) or [GitHub Pages](https://pages.github.com/), which runs on [Jekyll](https://jekyllrb.com/) (although I do prefer [Jekyll over Wordpress](/why-jekyll-is-better-than-wordpress)). You may have used a theme, or you hand coded your own site from scratch. Depending on your situation, you could have a full blown site that you want to customize further to your liking, or you could have a barebones site that is in serious need of style. This post will help you get started adding style to your web pages. It would be awesome if you had a basic understanding of HTML, and if you need to learn or need a refresher, visit my other post on how to [learn HTML in ten minutes](/learn-html-in-ten-minutes).
