@@ -24,5 +24,13 @@ background-color: yellow; `/*` Changes the "background-color" to the "value" "ye
 font-size: 28px; `/*` Makes the size of the font 28 "pixels", or "px", suitable for many headers. `*/`
 } `/*` Tells the web browser rendering the web page that this is the end of the styles for the h1 tag, for now (you can add "CSS blocks" like this as many times as you like, although it is best practice to keep all the values for a selected HTML element together, rather than separate) `*/`
 
-## Connect 
-link to html
+## Connect to HTML Page
+Now that you have styled your HTML elements to your heart's content, you may have noticed that your changes are not showing up on your HTML page. That is simply because the browser reading/rendering your HTML page doesn't know there is a CSS file associated with that page. In order to do this, you need to "link" the CSS style sheet to your HTML page within your "head" tags (see my post on [learning HTML](/learn-html-in-ten-minutes)) like so (where "theme.css" equals/is the filename of your CSS file):
+
+````
+<head>
+  <link rel="stylesheet" type="text/css" href="theme.css">
+</head>
+````
+
+And there you have it: you can now add styles to your plain HTML web page by creating and editing a CSS file!
